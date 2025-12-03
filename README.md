@@ -18,7 +18,7 @@ Durante o desenvolvimento, aplicamos pesquisas com os estudantes da ETECAMP e no
 Algumas imagens para demonstrar o site: 
 
 ![Tela Inicial](design/Telas_Sistema/Exemplo_TelaInicial.png)
-![Dashboard do Usuário](design/Telas_Sistema/Exemplo_PainelUsuario.jpg)
+![Dashboard do Usuário](design/Telas_Sistema/Exemplo_PainelUsuario.png)
 ![Tela de Jogos](design/Telas_Sistema/Exemplo_TelaInicialJogo.png)
 
 ## Linguagens usadas no website: 
